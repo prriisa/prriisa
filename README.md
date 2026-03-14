@@ -1,59 +1,27 @@
-<h1 align="center">Hey 👋, I'm PRIYA SHARMA</h1>
-<h3 align="center">💻 Web Developer in Progress | 🚀 Future MERN Stack Engineer | 🌸 Tech Explorer</h3>
+<h1 align="center">Hi 👋 I'm Priya Sharma</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prriisa&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+💻 BTech Computer Science Student • 🌸 Tech Explorer • 🚀 Future MERN Developer
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prriisa&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
-## 🌷 About Me
+# 💫 About Me:
+✨ Curious mind exploring the world of technology  <br>🎓 B.Tech CSE Student (Batch 2029)  <br>🌱 Currently learning **Full-Stack Web Development**  <br>💡 Love turning ideas into small real projects  <br>🎯 Goal: Build impactful and scalable tech<br>
 
-✨ B.Tech Computer Science Student (Batch 2029)  
-🌱 Currently diving deep into Full-Stack Development  
-💡 Curious mind exploring modern web technologies  
-⚡ Love turning ideas into real-world web applications  
-🎯 Dreaming big — building scalable & impactful tech  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prriisa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prriisa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyasharma45567@gmail.com) 
 
-## 🛠️ Tech Playground
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prriisa&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prriisa&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prriisa&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-💻 **Languages & Core**
-- HTML5  
-- CSS3  
-- JavaScript  
-- Python  
-
-📚 Always learning something new in the world of tech ✨  
-
----
-
-## 🌈 What I’m Working On
-
-- Building responsive web projects  
-- Strengthening JavaScript fundamentals  
-- Exploring MERN stack deeply  
-- Preparing myself for internships & real-world projects  
-
----
-
-## 📊 GitHub Energy
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prriisa&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prriisa&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/prriisa/  
-📧 Email: priiyasrma@gmail.com  
-
----
-
-<p align="center">
-✨ <i>“Exploring. Learning. Building. Growing.”</i> ✨
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
